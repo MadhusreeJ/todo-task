@@ -1,0 +1,21 @@
+.background-image {
+    background-image: url(/src/todo_image.jpeg);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    filter: blur(1px);
+    z-index: -1;
+}
+
+.cover {
+    background-image: url(/src/cover.jpeg);
+
+}
+
+.heading {
+    background-color: #197d6c;
+    color: #adede2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
